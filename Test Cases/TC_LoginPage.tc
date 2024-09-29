@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_LoginPage</name>
+   <tag>TC_LoginPage</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8befeb26-23b6-4640-920a-c6cf7b06b842</testCaseGuid>
+</TestCaseEntity>
